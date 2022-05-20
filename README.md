@@ -23,3 +23,9 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+# Ref URL
+
+```
+https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb
+```
