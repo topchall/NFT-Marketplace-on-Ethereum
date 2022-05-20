@@ -1,3 +1,10 @@
+# Used Stacks
+Next.js 
+Tailwind
+Solidity
+Hardhat
+Ether.js
+IPFS
 
 # Basic Next.js Project
 
@@ -5,7 +12,8 @@ Try running some of the following tasks:
 
 ```shell
 npm install
-or yarn
+# or
+yarn
 ```
 
 # Basic Sample Hardhat Project
